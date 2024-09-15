@@ -1,4 +1,6 @@
-# typesense_demo
+# SuperSearch App
+
+[Try Typesense here](https://shortclick.link/bm0h3f)
 
 A new Flutter project.
 
