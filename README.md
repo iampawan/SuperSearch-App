@@ -2,6 +2,8 @@
 
 [Try Typesense here](https://shortclick.link/bm0h3f)
 
+[Watch Tutorial](https://youtu.be/1JE2uBVUZyM)
+
 A new Flutter project.
 
 ## Getting Started
