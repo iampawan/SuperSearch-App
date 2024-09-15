@@ -1,0 +1,402 @@
+[
+    {
+      "id": "03c50662-11ec-49fe-9b46-49f5f5fd83ef",
+      "name": "Gadget 41",
+      "description": "This is an amazing Gadget 41 that you will love!",
+      "price": 247.6,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 2.6,
+      "in_stock": false
+    },
+    {
+      "id": "b07bbefc-447e-4d39-abfb-e94e8e26a1d1",
+      "name": "Product 91",
+      "description": "This is an amazing Product 91 that you will love!",
+      "price": 106.28,
+      "category": "Sports",
+      "brand": "BrandD",
+      "rating": 3.9,
+      "in_stock": true
+    },
+    {
+      "id": "f93f7cdd-963f-4877-986d-47019d92326d",
+      "name": "Item 67",
+      "description": "This is an amazing Item 67 that you will love!",
+      "price": 177.9,
+      "category": "Home",
+      "brand": "BrandB",
+      "rating": 1.7,
+      "in_stock": false
+    },
+    {
+      "id": "c9c5145a-fd91-4e3e-a497-c00a5d29979b",
+      "name": "Gadget 95",
+      "description": "This is an amazing Gadget 95 that you will love!",
+      "price": 168.22,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 2.0,
+      "in_stock": true
+    },
+    {
+      "id": "97c21c8d-6d7b-44f0-a50a-cb1f645246b1",
+      "name": "Item 29",
+      "description": "This is an amazing Item 29 that you will love!",
+      "price": 289.63,
+      "category": "Home",
+      "brand": "BrandD",
+      "rating": 4.4,
+      "in_stock": true
+    },
+    {
+      "id": "5425d2e7-e133-46c9-87e8-d2501a43e008",
+      "name": "Product 51",
+      "description": "This is an amazing Product 51 that you will love!",
+      "price": 36.4,
+      "category": "Beauty",
+      "brand": "BrandC",
+      "rating": 1.1,
+      "in_stock": false
+    },
+    {
+      "id": "f0460487-1310-4b1c-b7e3-9e9e8f4dc965",
+      "name": "Gadget 69",
+      "description": "This is an amazing Gadget 69 that you will love!",
+      "price": 209.39,
+      "category": "Electronics",
+      "brand": "BrandB",
+      "rating": 2.9,
+      "in_stock": true
+    },
+    {
+      "id": "f2d2261d-913c-4cb2-ba11-d25f1095ad4c",
+      "name": "Gadget 37",
+      "description": "This is an amazing Gadget 37 that you will love!",
+      "price": 142.8,
+      "category": "Sports",
+      "brand": "BrandC",
+      "rating": 4.9,
+      "in_stock": false
+    },
+    {
+      "id": "8228298f-cf00-4aed-83ac-1208d13c1822",
+      "name": "Gadget 45",
+      "description": "This is an amazing Gadget 45 that you will love!",
+      "price": 26.34,
+      "category": "Beauty",
+      "brand": "BrandB",
+      "rating": 2.5,
+      "in_stock": false
+    },
+    {
+      "id": "f4410396-014a-4885-86b2-9dee72f1df41",
+      "name": "Product 74",
+      "description": "This is an amazing Product 74 that you will love!",
+      "price": 171.21,
+      "category": "Sports",
+      "brand": "BrandD",
+      "rating": 1.2,
+      "in_stock": false
+    },
+    {
+      "id": "4b15ed07-769b-4c22-968e-253184a6db42",
+      "name": "Product 58",
+      "description": "This is an amazing Product 58 that you will love!",
+      "price": 251.4,
+      "category": "Home",
+      "brand": "BrandB",
+      "rating": 2.6,
+      "in_stock": true
+    },
+    {
+      "id": "e8b8ac61-be13-43dc-b711-e311ce887664",
+      "name": "Product 9",
+      "description": "This is an amazing Product 9 that you will love!",
+      "price": 181.05,
+      "category": "Sports",
+      "brand": "BrandC",
+      "rating": 1.2,
+      "in_stock": false
+    },
+    {
+      "id": "ce92bab8-1541-4c35-acdc-fa64dff4c8be",
+      "name": "Item 66",
+      "description": "This is an amazing Item 66 that you will love!",
+      "price": 65.7,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 1.5,
+      "in_stock": false
+    },
+    {
+      "id": "3ce406a2-7b59-4633-b876-337a6090bd22",
+      "name": "Product 8",
+      "description": "This is an amazing Product 8 that you will love!",
+      "price": 263.19,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 1.5,
+      "in_stock": false
+    },
+    {
+      "id": "a1cbf12c-26f5-4c91-a90b-bb2163a1fc5e",
+      "name": "Gadget 59",
+      "description": "This is an amazing Gadget 59 that you will love!",
+      "price": 38.85,
+      "category": "Home",
+      "brand": "BrandD",
+      "rating": 4.0,
+      "in_stock": false
+    },
+    {
+      "id": "6de9f518-1221-4b47-9992-46173e389785",
+      "name": "Product 7",
+      "description": "This is an amazing Product 7 that you will love!",
+      "price": 40.4,
+      "category": "Electronics",
+      "brand": "BrandB",
+      "rating": 4.4,
+      "in_stock": false
+    },
+    {
+      "id": "77c236d2-853e-4377-9ded-9a890b42ac2a",
+      "name": "Device 25",
+      "description": "This is an amazing Device 25 that you will love!",
+      "price": 148.25,
+      "category": "Beauty",
+      "brand": "BrandA",
+      "rating": 4.1,
+      "in_stock": true
+    },
+    {
+      "id": "c1d7b1f3-0a43-454f-a0eb-6c6d87980de3",
+      "name": "Device 84",
+      "description": "This is an amazing Device 84 that you will love!",
+      "price": 223.91,
+      "category": "Beauty",
+      "brand": "BrandC",
+      "rating": 1.8,
+      "in_stock": true
+    },
+    {
+      "id": "1c709580-df57-4f87-9941-8beb6254509f",
+      "name": "Device 40",
+      "description": "This is an amazing Device 40 that you will love!",
+      "price": 110.68,
+      "category": "Sports",
+      "brand": "BrandA",
+      "rating": 5.0,
+      "in_stock": true
+    },
+    {
+      "id": "9bb6d41c-b6da-47b3-b669-e2f3286b30d3",
+      "name": "Gadget 16",
+      "description": "This is an amazing Gadget 16 that you will love!",
+      "price": 181.9,
+      "category": "Electronics",
+      "brand": "BrandA",
+      "rating": 3.3,
+      "in_stock": false
+    },
+    {
+      "id": "49177243-c1c4-48b0-b620-01ac2b72df6a",
+      "name": "Device 17",
+      "description": "This is an amazing Device 17 that you will love!",
+      "price": 256.02,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 1.6,
+      "in_stock": false
+    },
+    {
+      "id": "e5a057bc-616e-4c05-9cd1-828998de441d",
+      "name": "Item 44",
+      "description": "This is an amazing Item 44 that you will love!",
+      "price": 43.62,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 1.6,
+      "in_stock": true
+    },
+    {
+      "id": "5e0d4df6-c3f1-4480-837a-ce0f56df9205",
+      "name": "Device 15",
+      "description": "This is an amazing Device 15 that you will love!",
+      "price": 30.82,
+      "category": "Clothing",
+      "brand": "BrandB",
+      "rating": 4.9,
+      "in_stock": false
+    },
+    {
+      "id": "4fd889ae-65ed-4d48-9949-2b53e903ce3e",
+      "name": "Device 92",
+      "description": "This is an amazing Device 92 that you will love!",
+      "price": 218.72,
+      "category": "Clothing",
+      "brand": "BrandD",
+      "rating": 3.6,
+      "in_stock": false
+    },
+    {
+      "id": "e1f86926-48e8-4d14-951b-860c087c5af9",
+      "name": "Device 90",
+      "description": "This is an amazing Device 90 that you will love!",
+      "price": 95.44,
+      "category": "Clothing",
+      "brand": "BrandD",
+      "rating": 2.1,
+      "in_stock": false
+    },
+    {
+      "id": "4b7e5749-12e9-4ae5-950c-4f1028a93cf4",
+      "name": "Gadget 61",
+      "description": "This is an amazing Gadget 61 that you will love!",
+      "price": 144.48,
+      "category": "Sports",
+      "brand": "BrandA",
+      "rating": 1.8,
+      "in_stock": false
+    },
+    {
+      "id": "a771d617-1527-475c-a34a-5ab1333531f8",
+      "name": "Gadget 86",
+      "description": "This is an amazing Gadget 86 that you will love!",
+      "price": 184.07,
+      "category": "Electronics",
+      "brand": "BrandD",
+      "rating": 3.8,
+      "in_stock": true
+    },
+    {
+      "id": "857ef5af-22db-4dca-8ccd-636f1b16dc82",
+      "name": "Product 51",
+      "description": "This is an amazing Product 51 that you will love!",
+      "price": 207.24,
+      "category": "Clothing",
+      "brand": "BrandD",
+      "rating": 2.9,
+      "in_stock": false
+    },
+    {
+      "id": "40e95932-7586-4456-bb81-ad1cb150be4b",
+      "name": "Product 54",
+      "description": "This is an amazing Product 54 that you will love!",
+      "price": 129.92,
+      "category": "Clothing",
+      "brand": "BrandA",
+      "rating": 2.9,
+      "in_stock": false
+    },
+    {
+      "id": "72a5c270-4535-4abd-bffd-c55a98db0afd",
+      "name": "Device 61",
+      "description": "This is an amazing Device 61 that you will love!",
+      "price": 97.14,
+      "category": "Home",
+      "brand": "BrandD",
+      "rating": 3.8,
+      "in_stock": true
+    },
+    {
+      "id": "e801bf16-2aee-4f71-801b-f1286ee870dc",
+      "name": "Item 12",
+      "description": "This is an amazing Item 12 that you will love!",
+      "price": 252.6,
+      "category": "Electronics",
+      "brand": "BrandB",
+      "rating": 3.7,
+      "in_stock": true
+    },
+    {
+      "id": "68f2bfae-2145-4da7-b2e0-a05d15727bd9",
+      "name": "Item 81",
+      "description": "This is an amazing Item 81 that you will love!",
+      "price": 169.8,
+      "category": "Beauty",
+      "brand": "BrandA",
+      "rating": 4.8,
+      "in_stock": true
+    },
+    {
+      "id": "57ed0c9f-b49d-4287-b4b8-edceb0549ba6",
+      "name": "Device 15",
+      "description": "This is an amazing Device 15 that you will love!",
+      "price": 131.26,
+      "category": "Beauty",
+      "brand": "BrandD",
+      "rating": 4.7,
+      "in_stock": false
+    },
+    {
+      "id": "445d0e9d-6f96-4925-90b9-4aa48d8f8eee",
+      "name": "Device 89",
+      "description": "This is an amazing Device 89 that you will love!",
+      "price": 133.78,
+      "category": "Electronics",
+      "brand": "BrandA",
+      "rating": 2.0,
+      "in_stock": false
+    },
+    {
+      "id": "176040ee-2277-4859-86e8-bd6542d1cc52",
+      "name": "Product 74",
+      "description": "This is an amazing Product 74 that you will love!",
+      "price": 151.9,
+      "category": "Electronics",
+      "brand": "BrandC",
+      "rating": 3.0,
+      "in_stock": true
+    },
+    {
+      "id": "22a053c0-7c4f-4ea4-8043-d4070ed9c762",
+      "name": "Product 67",
+      "description": "This is an amazing Product 67 that you will love!",
+      "price": 126.1,
+      "category": "Sports",
+      "brand": "BrandA",
+      "rating": 2.3,
+      "in_stock": true
+    },
+    {
+      "id": "3968d232-30ac-445a-ac66-d21a94d2dd69",
+      "name": "Gadget 68",
+      "description": "This is an amazing Gadget 68 that you will love!",
+      "price": 136.46,
+      "category": "Sports",
+      "brand": "BrandB",
+      "rating": 2.5,
+      "in_stock": false
+    },
+    {
+      "id": "b95e6bdc-3223-435c-93e8-c0b67e6d76be",
+      "name": "Item 53",
+      "description": "This is an amazing Item 53 that you will love!",
+      "price": 6.71,
+      "category": "Home",
+      "brand": "BrandD",
+      "rating": 3.5,
+      "in_stock": false
+    },
+    {
+      "id": "d38f68c4-03f2-453b-a1ef-7f5536e3a4ca",
+      "name": "Device 41",
+      "description": "This is an amazing Device 41 that you will love!",
+      "price": 65.03,
+      "category": "Beauty",
+      "brand": "BrandD",
+      "rating": 4.2,
+      "in_stock": true
+    },
+    {
+      "id": "ce4c3e34-d1d2-432d-b79d-ac6135f4ec10",
+      "name": "Product 92",
+      "description": "This is an amazing Product 92 that you will love!",
+      "price": 11.12,
+      "category": "Clothing",
+      "brand": "BrandC",
+      "rating": 4.5,
+      "in_stock": true
+    }
+]
